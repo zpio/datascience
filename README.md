@@ -1,2 +1,0 @@
-# datascience
-Data Science Latam
