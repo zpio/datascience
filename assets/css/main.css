@@ -1007,7 +1007,7 @@ header p {
 header.major > :last-child {
   border-bottom: solid 3px #799db4;
   display: inline-block;
-  margin: 0 0 2em 0;
+  margin: 0 0 1em 0;
   padding: 0 0.75em 0.5em 0; }
 
 header.main > :last-child {
@@ -1893,17 +1893,17 @@ button,
     #main > .inner {
       padding: 0 3em 0.1em 6em ; }
       #main > .inner > section {
-        padding: 5em 0 3em 0 ; } }
+        padding: 3em 0 1em 0 ; } }
   @media screen and (max-width: 1280px) {
     #main > .inner {
       padding: 0 4em 0.1em 4em ; }
       #main > .inner > section {
-        padding: 4em 0 2em 0 ; } }
+        padding: 2em 0 1em 0 ; } }     /* padding banner */
   @media screen and (max-width: 736px) {
     #main > .inner {
       padding: 0 2em 0.1em 2em ; }
       #main > .inner > section {
-        padding: 3em 0 1em 0 ; } }
+        padding: 2em 0 1em 0 ; } }
 
 /* Sidebar */
 #search form {
@@ -2151,7 +2151,7 @@ button,
     -webkit-flex-shrink: 1;
     -ms-flex-shrink: 1;
     flex-shrink: 1;
-    width: 60%; }
+    width: 70%; }
   #banner .image {
     -moz-flex-grow: 0;
     -webkit-flex-grow: 0;
@@ -2162,8 +2162,8 @@ button,
     -ms-flex-shrink: 0;
     flex-shrink: 0;
     display: block;
-    margin: 0 0 2em 4em;
-    width: 40%; }
+    margin: 0 0 0 4em;
+    width: 30%; }
     #banner .image img {
       height: 100%;
       -moz-object-fit: cover;
