@@ -2151,7 +2151,7 @@ button,
     -webkit-flex-shrink: 1;
     -ms-flex-shrink: 1;
     flex-shrink: 1;
-    width: 70%; }
+    width: 60%; }
   #banner .image {
     -moz-flex-grow: 0;
     -webkit-flex-grow: 0;
@@ -2163,7 +2163,7 @@ button,
     flex-shrink: 0;
     display: block;
     margin: 0 0 0 4em;
-    width: 30%; }
+    width: 40%; }
     #banner .image img {
       height: 100%;
       -moz-object-fit: cover;
